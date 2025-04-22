@@ -1,4 +1,4 @@
-# Sistema de Préstamos de Videojuegos - Proyecto Final
+# Sistema de Préstamos de Videojuegos
 
 Este trabajo práctico simula un sistema de gestión de préstamos de videojuegos entre usuarios. Desarrollado en Java, el sistema permite registrar juegos, asignar préstamos, definir géneros, plataformas y resultados, utilizando clases bien estructuradas y aplicando principios fundamentales de la programación orientada a objetos.
 
